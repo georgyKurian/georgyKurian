@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on many things!
-- 🌱 I’m currently learning front-end development focusing more on React.js
+- 🔭 I’m currently working on many things.
+- 🌱 I’m doing AWS Developer Associate training.
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer and other outdoor games to stay active.
 
@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/c6e6d24b549ad817fa6cbeae87b7f484db901f0e/topics/laravel/laravel.png" />
+<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
