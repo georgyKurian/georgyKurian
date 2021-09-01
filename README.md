@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img  alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=georgyKurian&show_icons=true&hide_border=true" />
+<img  alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=georgyKurian&show_icons=true&hide_border=true" />
 <br/>
 
 ---
